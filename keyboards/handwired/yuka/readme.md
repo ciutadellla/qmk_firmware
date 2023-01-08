@@ -4,8 +4,9 @@
 
 Split 58 ortholinear handwired by Yuka
 
-* Keyboard Maintainer: [Yuka](https://github.com/yuka)
-* Hardware Supported: [Ciutadella](https://github.com/ciutadellla)
+* Keyboard Maintainers: 
+    [Yuka](https://github.com/yuka)
+    [Ciutadella](https://github.com/ciutadellla)
 
 Build from docker/Gitpod:
     util/docker_build.sh handwired/yuka/5x7:default
