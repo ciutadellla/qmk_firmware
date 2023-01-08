@@ -9,11 +9,11 @@
 
 Build from docker/Gitpod:
 ```
-util/docker_build.sh handwired/yuka/5x7:default
+util/docker_build.sh handwired/yuka:default
 ``` 
 
 Build Via from docker/Gitpod:
 ```
-util/docker_build.sh handwired/yuka/5x7:via
+util/docker_build.sh handwired/yuka:via
 ``` 
 
