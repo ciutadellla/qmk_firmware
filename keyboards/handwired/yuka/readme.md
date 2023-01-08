@@ -12,8 +12,8 @@ Build from docker/Gitpod:
 util/docker_build.sh handwired/yuka/5x7:default
 ``` 
 
-Flash from docker/Gitpod:
+Build Via from docker/Gitpod:
 ```
-util/docker_build.sh handwired/yuka/5x7:default:flash
+util/docker_build.sh handwired/yuka/5x7:via
 ``` 
 
